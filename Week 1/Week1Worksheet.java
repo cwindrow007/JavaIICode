@@ -3,7 +3,6 @@ Title: Week 1 Lab Worksheet
 Author: Christopher Windrow
 Description:
     This is Week1Worksheet code where we are to provide out IDE is working.
-
  */
 public class Week1Worksheet {
 
