@@ -25,7 +25,7 @@ public class CalculateInvestment {
 		Scanner scn = new Scanner(System.in);
 		System.out.println ("Enter investment amount: ");
 		double invstAmnt = scn.nextDouble();
-		System.out.println("Entere annual Interest Rate: ");
+		System.out.println("Enter annual Interest Rate: ");
 		double ratePercentage = scn.nextDouble();
 		System.out.println("Enter the number of years: ");
 		int numYears = scn.nextInt();
